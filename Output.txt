@@ -1,0 +1,3 @@
+OUTPUT:
+Enter the Mail of a Student:Thejaskumar.b2020@gmail.com
+Student_Mail is in the List
